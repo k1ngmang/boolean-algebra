@@ -1,6 +1,6 @@
 <div align="center">
   <img src="icon.png" width="300">
-   <h2>mamath boolean</h2>
+
 library for Boolean algebra for jvm
 </div>
 
