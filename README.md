@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="icon.png" width="300">
-
 library for Boolean algebra for jvm
 </div>
-
 
 Example:
 ````kotlin
